@@ -85,7 +85,7 @@ vb
 
 # Next.js build output
 .next
-
+fg
 # Nuxt.js build / generate output
 .nuxt
 dist
