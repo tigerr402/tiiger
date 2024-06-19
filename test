@@ -13,7 +13,7 @@ fga
 # Runtime data
 
 data
-
+.n
 pids
 *.pid
 
