@@ -60,6 +60,7 @@ dg
 # TypeScript cache
 *.tsbuildinfo
 xdg
+
 xdg
 lol
 # Optional npm cache directory
