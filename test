@@ -46,6 +46,7 @@ hjvguy
 rdty
 # Bower dependency directory (https://bower.io/)
 bower_components
+
 ghi
 # node-waf configuration
 .lock-wscript
