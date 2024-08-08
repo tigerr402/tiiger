@@ -120,7 +120,7 @@ ghf
 dfgwsedf
 # vuepress build output
 .vuepress/dist
-
+tye
 # Serverless directories
 .serverless/
 
