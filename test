@@ -94,6 +94,7 @@ dfg
 # Dependency directories
 node_modules/
 jspm_packages/
+
 sfz
 # TypeScript v1 declaration files
 typings/
