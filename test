@@ -99,6 +99,7 @@ sfz
 # TypeScript v1 declaration files
 typings/
 dg
+
 # TypeScript cache
 *.tsbuildinfo
 xdg
